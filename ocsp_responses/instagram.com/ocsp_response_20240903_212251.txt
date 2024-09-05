@@ -1,0 +1,46 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: CF26F518FAC97E8F8CB342E01C2F6A109E8E5F0A
+          Issuer Key Hash: 5168FF90AF0207753CCCD9656462A212B859723B
+          Serial Number: 0E5217D2E88ED52EDBC33C0D00F71AB5
+    Request Extensions:
+        OCSP Nonce: 
+            04109FDDEDB0BF35D863CC14DE8E1B64A1DC
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 5168FF90AF0207753CCCD9656462A212B859723B
+    Produced At: Sep  3 03:18:25 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: CF26F518FAC97E8F8CB342E01C2F6A109E8E5F0A
+      Issuer Key Hash: 5168FF90AF0207753CCCD9656462A212B859723B
+      Serial Number: 0E5217D2E88ED52EDBC33C0D00F71AB5
+    Cert Status: good
+    This Update: Sep  3 03:03:01 2024 GMT
+    Next Update: Sep 10 02:03:01 2024 GMT
+
+    Signature Algorithm: sha256WithRSAEncryption
+         a2:9b:7f:fb:4c:59:9b:00:c1:05:21:c0:e3:3e:1a:33:86:cd:
+         43:f9:de:33:84:b2:f7:48:17:2b:d5:97:80:ac:a9:16:46:6c:
+         85:f9:39:16:87:d6:c5:99:e7:b8:bd:74:02:62:1b:55:69:64:
+         56:a6:58:a0:e3:4c:2b:98:f2:52:31:65:ba:8d:7c:0b:54:51:
+         e9:da:85:b2:b8:b3:bc:25:17:f3:a1:c5:a3:ed:a0:fe:f3:2a:
+         df:65:9d:a8:e9:3e:42:29:66:01:44:e6:68:f6:9c:fb:19:a9:
+         72:46:6c:82:52:45:a3:06:41:3d:d1:5d:c2:f0:33:5b:a1:14:
+         d9:78:b0:21:07:bc:0f:f0:55:74:c0:f5:75:15:93:6a:07:a4:
+         06:d1:39:63:5d:ed:f2:27:a4:2c:e7:97:51:e3:64:c6:08:8c:
+         f0:de:19:8f:74:87:e2:df:36:01:25:cc:01:e8:0c:a3:a8:96:
+         60:71:70:2a:c7:80:f8:e7:ea:de:df:8f:c1:fc:fa:ae:68:d5:
+         c2:1f:ae:9a:28:d5:c1:61:c3:6b:d5:57:76:fe:03:32:70:28:
+         f6:59:b5:c8:cc:50:61:6a:f0:83:11:fa:0d:7e:c1:dc:4e:87:
+         bf:f4:90:fa:13:5d:2d:ed:58:3d:fe:2a:a8:0a:7b:74:4b:1d:
+         47:ea:0f:d4
+cert.pem: good
+	This Update: Sep  3 03:03:01 2024 GMT
+	Next Update: Sep 10 02:03:01 2024 GMT

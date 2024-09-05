@@ -1,0 +1,3048 @@
+Processing domain: wikipedia.org at 20240903_212239
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  2 16:00:25 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_212239.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_212240
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_212240.txt
+-------------------------------------
+Processing domain: google.com at 20240903_212241
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_212241.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_212241
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_212241.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_212244
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 00:01:16 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_212244.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_212244
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_212244.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_212246
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_212246.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_212246
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 15:52:47 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_212246.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_212247
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 15:52:49 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_212247.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_212249
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_212249.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_212251
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 15:52:51 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_212251.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_212251
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 03:18:25 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_212251.txt
+-------------------------------------
+Processing domain: wikipedia.org at 20240903_212715
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  2 16:00:25 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_212715.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_212716
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_212716.txt
+-------------------------------------
+Processing domain: google.com at 20240903_212717
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_212717.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_212717
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_212717.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_212719
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 00:01:16 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_212719.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_212720
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_212720.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_212722
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_212722.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_212723
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 15:57:24 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_212723.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_212724
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 15:57:25 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_212724.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_212725
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_212725.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_212727
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 15:57:27 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_212727.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_212728
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 03:18:25 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_212728.txt
+-------------------------------------
+Processing domain: wikipedia.org at 20240903_213045
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  2 16:00:25 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_213045.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_213046
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_213046.txt
+-------------------------------------
+Processing domain: google.com at 20240903_213047
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_213047.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_213047
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_213047.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_213049
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 00:01:16 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_213049.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_213051
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_213051.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_213053
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_213053.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_213053
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 16:00:54 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_213053.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_213054
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 16:00:56 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_213054.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_213056
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_213056.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_213058
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 16:00:58 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_213058.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_213058
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 03:18:25 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_213058.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240903_220059
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_220059.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_220100
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_220100.txt
+-------------------------------------
+Processing domain: google.com at 20240903_220100
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_220100.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_220101
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_220101.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_220103
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 00:01:16 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_220103.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_220104
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_220104.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_220105
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_220105.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_220106
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 16:31:06 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_220106.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_220107
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 16:31:08 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_220107.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_220108
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_220108.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_220110
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 16:31:11 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_220110.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_220111
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 03:18:25 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_220111.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240903_223112
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_223112.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_223114
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_223114.txt
+-------------------------------------
+Processing domain: google.com at 20240903_223114
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_223114.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_223115
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_223115.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_223117
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_223117.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_223118
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_223118.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_223119
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_223119.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_223120
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 17:01:21 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_223120.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_223121
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 17:01:22 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_223121.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_223122
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_223122.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_223124
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 17:01:25 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_223124.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_223125
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_223125.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240903_230126
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_230126.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_230127
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_230127.txt
+-------------------------------------
+Processing domain: google.com at 20240903_230128
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_230128.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_230128
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_230128.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_230130
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_230130.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_230131
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_230131.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_230132
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_230132.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_230133
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 17:31:34 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_230133.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_230134
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 17:31:38 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_230134.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_230138
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_230138.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_230140
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 17:31:40 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_230140.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_230140
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_230140.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240903_233141
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240903_233141.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240903_233142
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240903_233142.txt
+-------------------------------------
+Processing domain: google.com at 20240903_233143
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240903_233143.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240903_233143
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240903_233143.txt
+-------------------------------------
+Processing domain: facebook.com at 20240903_233145
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240903_233145.txt
+-------------------------------------
+Processing domain: twitter.com at 20240903_233146
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240903_233146.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240903_233147
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240903_233147.txt
+-------------------------------------
+Processing domain: apple.com at 20240903_233148
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 18:01:49 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240903_233148.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240903_233149
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 18:01:51 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240903_233149.txt
+-------------------------------------
+Processing domain: amazon.com at 20240903_233151
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240903_233151.txt
+-------------------------------------
+Processing domain: icloud.com at 20240903_233153
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 18:01:54 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240903_233153.txt
+-------------------------------------
+Processing domain: instagram.com at 20240903_233154
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240903_233154.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_000155
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_000155.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_000156
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_000156.txt
+-------------------------------------
+Processing domain: google.com at 20240904_000157
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_000157.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_000157
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_000157.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_000200
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_000200.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_000201
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_000201.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_000202
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_000202.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_000203
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 18:32:04 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_000203.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_000204
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 18:32:06 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_000204.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_000206
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_000206.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_000208
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 18:32:08 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_000208.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_000208
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_000208.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_003209
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_003209.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_003211
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_003211.txt
+-------------------------------------
+Processing domain: google.com at 20240904_003211
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:03:33 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_003211.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_003212
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_003212.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_003214
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_003214.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_003215
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_003215.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_003217
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_003217.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_003217
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 19:02:18 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_003217.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_003219
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 19:02:20 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_003219.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_003220
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_003220.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_003222
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 19:02:23 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_003222.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_003223
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_003223.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_010224
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_010224.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_010224
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  2 11:06:08 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_010224.txt
+-------------------------------------
+Processing domain: google.com at 20240904_010225
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_010225.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_010225
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_010225.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_010228
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_010228.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_010229
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_010229.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_010230
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_010230.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_010231
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 19:32:32 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_010231.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_010233
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 19:32:34 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_010233.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_010234
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_010234.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_010235
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 19:32:36 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_010235.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_010236
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_010236.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_013237
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_013237.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_013238
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_013238.txt
+-------------------------------------
+Processing domain: google.com at 20240904_013239
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_013239.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_013239
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_013239.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_013242
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_013242.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_013243
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_013243.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_013244
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_013244.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_013245
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 20:02:45 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_013245.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_013246
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 20:02:48 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_013246.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_013248
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_013248.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_013250
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 20:02:51 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_013250.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_013251
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_013251.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_020252
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_020252.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_020253
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_020253.txt
+-------------------------------------
+Processing domain: google.com at 20240904_020253
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_020253.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_020254
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_020254.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_020256
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_020256.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_020257
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_020257.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_020258
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_020258.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_020259
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 20:33:00 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_020259.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_020300
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 20:33:01 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_020300.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_020302
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_020302.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_020303
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 20:33:04 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_020303.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_020304
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_020304.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_023305
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_023305.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_023306
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_023306.txt
+-------------------------------------
+Processing domain: google.com at 20240904_023307
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_023307.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_023307
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_023307.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_023309
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_023309.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_023310
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_023310.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_023311
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_023311.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_023312
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 21:03:13 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_023312.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_023313
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 21:03:14 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_023313.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_023314
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_023314.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_023316
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 21:03:16 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_023316.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_023317
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_023317.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_030317
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_030317.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_030318
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_030318.txt
+-------------------------------------
+Processing domain: google.com at 20240904_030319
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_030319.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_030319
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_030319.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_030322
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_030322.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_030322
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_030322.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_030323
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_030323.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_030324
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 21:33:25 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_030324.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_030325
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 21:33:26 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_030325.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_030326
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_030326.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_030328
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 21:33:29 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_030328.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_030329
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_030329.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_033329
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_033329.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_033330
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_033330.txt
+-------------------------------------
+Processing domain: google.com at 20240904_033331
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_033331.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_033332
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_033332.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_033334
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_033334.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_033336
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_033336.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_033337
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_033337.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_033338
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 22:03:39 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_033338.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_033339
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 22:03:41 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_033339.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_033341
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_033341.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_033343
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 22:03:44 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_033343.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_033344
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_033344.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_040345
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_040345.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_040346
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_040346.txt
+-------------------------------------
+Processing domain: google.com at 20240904_040346
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_040346.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_040347
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_040347.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_040349
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_040349.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_040350
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_040350.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_040351
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_040351.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_040352
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 22:33:52 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_040352.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_040353
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 22:33:54 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_040353.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_040354
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_040354.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_040356
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 22:33:57 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_040356.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_040357
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_040357.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_043358
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_043358.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_043359
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_043359.txt
+-------------------------------------
+Processing domain: google.com at 20240904_043400
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_043400.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_043401
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_043401.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_043403
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_043403.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_043403
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_043403.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_043405
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_043405.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_043406
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 23:04:07 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_043406.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_043407
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 23:04:08 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_043407.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_043409
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_043409.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_043410
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 23:04:11 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_043410.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_043411
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_043411.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_050412
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_050412.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_050413
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_050413.txt
+-------------------------------------
+Processing domain: google.com at 20240904_050414
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_050414.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_050414
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_050414.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_050416
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_050416.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_050417
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_050417.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_050419
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_050419.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_050420
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  3 23:34:21 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_050420.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_050421
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  3 23:34:22 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_050421.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_050423
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_050423.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_050425
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  3 23:34:25 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_050425.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_050426
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_050426.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_053426
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_053426.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_053427
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_053427.txt
+-------------------------------------
+Processing domain: google.com at 20240904_053428
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_053428.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_053428
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_053428.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_053431
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_053431.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_053431
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_053431.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_053432
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_053432.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_053433
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 00:04:34 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_053433.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_053434
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 00:04:35 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_053434.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_053435
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_053435.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_053437
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 00:04:37 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_053437.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_053438
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_053438.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_060438
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_060438.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_060439
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_060439.txt
+-------------------------------------
+Processing domain: google.com at 20240904_060440
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_060440.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_060440
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_060440.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_060442
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_060442.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_060443
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_060443.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_060445
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_060445.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_060446
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 00:34:46 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_060446.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_060446
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 00:34:48 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_060446.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_060448
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_060448.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_060450
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 00:34:51 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_060450.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_060451
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_060451.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_063451
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_063451.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_063452
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_063452.txt
+-------------------------------------
+Processing domain: google.com at 20240904_063453
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_063453.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_063453
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_063453.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_063456
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_063456.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_063456
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_063456.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_063458
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_063458.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_063458
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 01:04:59 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_063458.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_063459
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 01:05:01 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_063459.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_063501
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_063501.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_063503
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 01:05:04 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_063503.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_063504
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_063504.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_070505
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_070505.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_070507
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_070507.txt
+-------------------------------------
+Processing domain: google.com at 20240904_070507
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_070507.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_070508
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_070508.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_070510
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_070510.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_070511
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_070511.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_070513
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_070513.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_070514
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 01:35:14 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_070514.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_070515
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 01:35:16 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_070515.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_070516
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_070516.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_070518
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 01:35:19 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_070518.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_070519
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_070519.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_073519
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_073519.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_073521
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_073521.txt
+-------------------------------------
+Processing domain: google.com at 20240904_073521
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_073521.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_073522
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_073522.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_073524
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_073524.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_073525
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_073525.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_073527
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_073527.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_073528
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 02:05:29 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_073528.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_073529
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 02:05:31 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_073529.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_073531
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_073531.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_073533
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 02:05:33 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_073533.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_073533
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_073533.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_080534
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_080534.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_080535
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_080535.txt
+-------------------------------------
+Processing domain: google.com at 20240904_080535
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_080535.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_080536
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_080536.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_080538
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_080538.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_080539
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_080539.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_080541
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_080541.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_080541
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 02:35:42 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_080541.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_080542
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 02:35:43 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_080542.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_080543
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_080543.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_080545
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 02:35:46 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_080545.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_080546
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_080546.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_083546
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_083546.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_083547
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_083547.txt
+-------------------------------------
+Processing domain: google.com at 20240904_083548
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_083548.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_083549
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_083549.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_083551
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_083551.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_083551
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_083551.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_083553
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_083553.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_083554
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 03:05:54 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_083554.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_083555
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 03:05:56 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_083555.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_083556
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_083556.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_083558
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 03:05:59 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_083558.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_083559
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_083559.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_090559
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_090559.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_090600
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_090600.txt
+-------------------------------------
+Processing domain: google.com at 20240904_090601
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_090601.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_090602
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_090602.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_090603
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_090603.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_090604
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_090604.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_090605
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_090605.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_090606
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 03:36:07 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_090606.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_090607
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 03:36:08 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_090607.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_090609
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_090609.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_090611
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 03:36:11 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_090611.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_090611
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_090611.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_093612
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_093612.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_093613
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_093613.txt
+-------------------------------------
+Processing domain: google.com at 20240904_093614
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_093614.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_093614
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_093614.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_093616
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_093616.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_093618
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_093618.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_093619
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_093619.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_093620
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 04:06:20 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_093620.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_093621
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 04:06:22 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_093621.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_093622
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_093622.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_093624
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 04:06:24 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_093624.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_093624
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_093624.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_100625
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_100625.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_100626
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_100626.txt
+-------------------------------------
+Processing domain: google.com at 20240904_100627
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_100627.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_100627
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_100627.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_100630
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 04:48:26 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_100630.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_100630
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_100630.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_100632
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_100632.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_100633
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 04:36:33 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_100633.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_100633
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 04:36:34 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_100633.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_100635
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_100635.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_100637
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 04:36:37 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_100637.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_100637
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_100637.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_103638
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_103638.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_103640
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_103640.txt
+-------------------------------------
+Processing domain: google.com at 20240904_103640
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_103640.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_103641
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_103641.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_103642
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_103642.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_103643
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_103643.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_103645
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_103645.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_103646
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 05:06:46 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_103646.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_103647
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 05:06:48 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_103647.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_103648
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_103648.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_103650
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 05:06:50 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_103650.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_103651
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_103651.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_110651
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_110651.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_110652
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_110652.txt
+-------------------------------------
+Processing domain: google.com at 20240904_110653
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_110653.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_110653
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_110653.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_110655
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_110655.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_110656
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_110656.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_110658
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_110658.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_110658
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 05:36:59 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_110658.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_110659
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 05:37:01 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_110659.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_110701
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_110701.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_110703
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 05:37:03 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_110703.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_110703
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_110703.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_113704
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_113704.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_113706
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_113706.txt
+-------------------------------------
+Processing domain: google.com at 20240904_113706
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_113706.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_113707
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_113707.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_113708
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_113708.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_113709
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_113709.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_113711
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_113711.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_113711
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 06:07:12 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_113711.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_113712
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 06:07:14 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_113712.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_113714
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_113714.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_113716
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 06:07:17 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_113716.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_113717
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_113717.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_120718
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_120718.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_120719
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_120719.txt
+-------------------------------------
+Processing domain: google.com at 20240904_120719
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_120719.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_120719
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_120719.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_120722
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_120722.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_120723
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_120723.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_120724
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_120724.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_120725
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 06:37:26 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_120725.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_120726
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 06:37:28 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_120726.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_120728
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_120728.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_120729
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 06:37:30 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_120729.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_120730
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_120730.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_123730
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_123730.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_123732
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_123732.txt
+-------------------------------------
+Processing domain: google.com at 20240904_123733
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_123733.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_123733
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_123733.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_123736
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_123736.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_123736
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_123736.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_123738
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_123738.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_123738
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 07:07:39 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_123738.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_123739
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 07:07:41 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_123739.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_123741
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_123741.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_123743
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 07:07:44 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_123743.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_123744
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_123744.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_130745
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_130745.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_130746
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_130746.txt
+-------------------------------------
+Processing domain: google.com at 20240904_130746
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_130746.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_130747
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_130747.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_130748
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_130748.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_130749
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_130749.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_130751
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_130751.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_130751
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 07:37:51 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_130751.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_130752
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 07:37:53 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_130752.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_130753
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_130753.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_130755
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 07:37:56 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_130755.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_130756
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_130756.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_133757
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_133757.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_133759
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_133759.txt
+-------------------------------------
+Processing domain: google.com at 20240904_133800
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_133800.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_133800
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_133800.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_133802
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_133802.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_133803
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_133803.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_133804
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_133804.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_133805
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 08:08:06 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_133805.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_133806
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 08:08:08 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_133806.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_133809
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_133809.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_133811
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 08:08:12 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_133811.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_133812
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_133812.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_140812
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_140812.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_140816
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_140816.txt
+-------------------------------------
+Processing domain: google.com at 20240904_140817
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_140817.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_140817
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_140817.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_140819
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_140819.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_140820
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_140820.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_140821
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_140821.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_140821
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 08:38:22 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_140821.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_140822
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 08:38:23 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_140822.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_140823
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_140823.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_140826
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 08:38:26 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_140826.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_140826
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_140826.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_143827
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_143827.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_143829
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_143829.txt
+-------------------------------------
+Processing domain: google.com at 20240904_143829
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_143829.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_143829
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_143829.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_143832
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_143832.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_143832
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_143832.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_143834
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_143834.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_143834
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 09:08:35 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_143834.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_143835
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 09:08:36 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_143835.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_143837
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_143837.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_143839
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 09:08:39 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_143839.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_143839
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_143839.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_150840
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_150840.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_150841
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_150841.txt
+-------------------------------------
+Processing domain: google.com at 20240904_150841
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_150841.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_150842
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_150842.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_150843
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_150843.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_150844
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_150844.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_150846
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_150846.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_150846
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 09:38:47 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_150846.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_150847
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 09:38:49 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_150847.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_150849
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_150849.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_150851
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 09:38:51 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_150851.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_150852
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_150852.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_153853
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_153853.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_153854
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_153854.txt
+-------------------------------------
+Processing domain: google.com at 20240904_153854
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_153854.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_153854
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_153854.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_153857
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_153857.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_153857
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_153857.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_153859
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_153859.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_153859
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 10:09:00 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_153859.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_153900
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 10:09:01 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_153900.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_153901
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 10:13:15 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_153901.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_153903
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 10:09:04 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_153903.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_153904
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_153904.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_160905
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_160905.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_160906
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_160906.txt
+-------------------------------------
+Processing domain: google.com at 20240904_160907
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_160907.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_160907
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_160907.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_160909
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_160909.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_160910
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_160910.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_160911
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_160911.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_160912
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 10:39:13 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_160912.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_160913
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 10:39:15 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_160913.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_160915
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_160915.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_160918
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 10:39:18 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_160918.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_160918
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_160918.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_163919
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_163919.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_163920
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_163920.txt
+-------------------------------------
+Processing domain: google.com at 20240904_163920
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_163920.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_163921
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_163921.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_163923
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_163923.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_163923
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_163923.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_163925
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_163925.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_163925
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 11:09:26 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_163925.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_163926
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 11:09:27 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_163926.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_163927
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_163927.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_163929
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 11:09:29 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_163929.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_163929
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_163929.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_170930
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_170930.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_170931
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_170931.txt
+-------------------------------------
+Processing domain: google.com at 20240904_170931
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_170931.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_170931
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_170931.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_170933
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_170933.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_170934
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_170934.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_170936
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_170936.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_170936
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 11:39:37 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_170936.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_170937
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 11:39:39 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_170937.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_170939
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_170939.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_170941
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 11:39:41 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_170941.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_170941
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_170941.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_173942
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_173942.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_173943
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_173943.txt
+-------------------------------------
+Processing domain: google.com at 20240904_173944
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_173944.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_173944
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_173944.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_173948
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_173948.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_173948
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 12:19:13 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_173948.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_173949
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_173949.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_173950
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 12:09:51 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_173950.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_173951
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 12:09:53 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_173951.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_173953
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_173953.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_173955
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 12:09:56 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_173955.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_173956
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_173956.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_180957
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_180957.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_180958
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_180958.txt
+-------------------------------------
+Processing domain: google.com at 20240904_180958
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_180958.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_180958
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_180958.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_181000
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_181000.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_181001
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_181001.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_181002
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_181002.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_181003
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 12:40:04 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_181003.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_181004
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 12:40:05 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_181004.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_181006
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_181006.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_181007
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 12:40:08 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_181007.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_181008
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_181008.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_184009
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_184009.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_184010
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_184010.txt
+-------------------------------------
+Processing domain: google.com at 20240904_184011
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_184011.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_184011
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_184011.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_184013
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_184013.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_184014
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_184014.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_184016
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 13:36:39 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_184016.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_184017
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 13:10:18 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_184017.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_184018
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 13:10:20 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_184018.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_184020
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_184020.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_184022
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 13:10:23 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_184022.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_184023
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_184023.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_191024
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_191024.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_191025
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_191025.txt
+-------------------------------------
+Processing domain: google.com at 20240904_191025
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_191025.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_191026
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_191026.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_191028
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_191028.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_191029
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_191029.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_191031
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_191031.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_191031
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 13:40:33 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_191031.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_191033
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 13:40:34 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_191033.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_191034
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_191034.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_191037
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 13:40:38 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_191037.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_191038
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_191038.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_194039
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_194039.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_194040
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_194040.txt
+-------------------------------------
+Processing domain: google.com at 20240904_194040
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_194040.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_194041
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_194041.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_194043
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_194043.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_194044
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_194044.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_194046
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_194046.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_194046
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 14:10:47 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_194046.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_194047
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 14:10:49 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_194047.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_194049
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_194049.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_194052
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 14:10:52 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_194052.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_194053
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_194053.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_201054
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_201054.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_201055
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_201055.txt
+-------------------------------------
+Processing domain: google.com at 20240904_201055
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_201055.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_201056
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_201056.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_201058
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_201058.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_201059
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_201059.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_201101
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_201101.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_201102
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 14:41:03 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_201102.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_201103
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 14:41:05 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_201103.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_201105
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_201105.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_201107
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 14:41:08 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_201107.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_201108
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_201108.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_204109
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_204109.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_204110
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_204110.txt
+-------------------------------------
+Processing domain: google.com at 20240904_204111
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_204111.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_204111
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_204111.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_204114
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_204114.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_204115
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_204115.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_204117
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_204117.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_204118
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 15:11:19 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_204118.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_204119
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 15:11:20 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_204119.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_204120
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_204120.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_204122
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 15:11:23 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_204122.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_204123
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_204123.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240904_211124
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  3 16:00:33 2024 GMT
+OCSP response saved to ocsp_responses/wikipedia.org/ocsp_response_20240904_211124.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240904_211125
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:07:56 2024 GMT
+OCSP response saved to ocsp_responses/gstatic.com/ocsp_response_20240904_211125.txt
+-------------------------------------
+Processing domain: google.com at 20240904_211126
+OCSP URI found: http://o.pki.goog/wr2
+    Produced At: Sep  3 11:03:55 2024 GMT
+OCSP response saved to ocsp_responses/google.com/ocsp_response_20240904_211126.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240904_211126
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 09:49:05 2024 GMT
+OCSP response saved to ocsp_responses/yahoo.com/ocsp_response_20240904_211126.txt
+-------------------------------------
+Processing domain: facebook.com at 20240904_211128
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 04:48:27 2024 GMT
+OCSP response saved to ocsp_responses/facebook.com/ocsp_response_20240904_211128.txt
+-------------------------------------
+Processing domain: twitter.com at 20240904_211129
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 12:19:09 2024 GMT
+OCSP response saved to ocsp_responses/twitter.com/ocsp_response_20240904_211129.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240904_211131
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+OCSP response saved to ocsp_responses/linkedin.com/ocsp_response_20240904_211131.txt
+-------------------------------------
+Processing domain: apple.com at 20240904_211131
+OCSP URI found: http://ocsp.apple.com/ocsp03-apevsecc1g101
+    Produced At: Sep  4 15:41:32 2024 GMT
+OCSP response saved to ocsp_responses/apple.com/ocsp_response_20240904_211131.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240904_211132
+OCSP URI found: http://oneocsp.microsoft.com/ocsp
+    Produced At: Sep  4 15:41:33 2024 GMT
+OCSP response saved to ocsp_responses/microsoft.com/ocsp_response_20240904_211132.txt
+-------------------------------------
+Processing domain: amazon.com at 20240904_211133
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 10:13:19 2024 GMT
+OCSP response saved to ocsp_responses/amazon.com/ocsp_response_20240904_211133.txt
+-------------------------------------
+Processing domain: icloud.com at 20240904_211135
+OCSP URI found: http://ocsp.apple.com/ocsp03-apsecc12g101
+    Produced At: Sep  4 15:41:36 2024 GMT
+OCSP response saved to ocsp_responses/icloud.com/ocsp_response_20240904_211135.txt
+-------------------------------------
+Processing domain: instagram.com at 20240904_211136
+OCSP URI found: http://ocsp.digicert.com
+    Produced At: Sep  4 07:24:45 2024 GMT
+OCSP response saved to ocsp_responses/instagram.com/ocsp_response_20240904_211136.txt
+-------------------------------------
+Sleeping for 30 minutes...

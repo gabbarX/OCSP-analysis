@@ -1,0 +1,37 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 2B1D1E98CCF37604D6C1C8BD15A224C804130038
+          Issuer Key Hash: 0ABC0829178CA5396D7A0ECE33C72EB3EDFBC37A
+          Serial Number: 07419E39583A4C76CF1EA14347FA5F3A
+    Request Extensions:
+        OCSP Nonce: 
+            0410F3ED100B7CB5F3EE7DE3F67E0AAEB6EE
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 0ABC0829178CA5396D7A0ECE33C72EB3EDFBC37A
+    Produced At: Sep  3 16:00:33 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 2B1D1E98CCF37604D6C1C8BD15A224C804130038
+      Issuer Key Hash: 0ABC0829178CA5396D7A0ECE33C72EB3EDFBC37A
+      Serial Number: 07419E39583A4C76CF1EA14347FA5F3A
+    Cert Status: good
+    This Update: Sep  3 15:45:02 2024 GMT
+    Next Update: Sep 10 14:45:02 2024 GMT
+
+    Signature Algorithm: ecdsa-with-SHA384
+         30:65:02:31:00:aa:0f:c5:ef:1e:1f:08:6e:67:40:77:51:17:
+         ab:58:53:06:de:27:8c:ab:d7:5e:dc:83:5c:4a:b5:eb:1e:5a:
+         fb:03:f3:a1:94:98:14:45:df:77:0b:e5:c1:7a:eb:23:44:02:
+         30:24:79:f1:07:93:45:f9:5b:82:ba:d6:52:82:99:17:7f:72:
+         d5:97:64:33:fd:3c:3d:00:ed:5f:0c:7c:7a:bd:35:76:af:40:
+         24:21:1b:51:4f:aa:9d:a1:a6:00:f8:f3:73
+cert.pem: good
+	This Update: Sep  3 15:45:02 2024 GMT
+	Next Update: Sep 10 14:45:02 2024 GMT

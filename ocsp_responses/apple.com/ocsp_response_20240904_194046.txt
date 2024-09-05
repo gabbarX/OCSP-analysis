@@ -1,0 +1,94 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 99A13D5E339D6899F2F62D3449CA0FB7AD56A71D
+          Issuer Key Hash: E085487D13A6D310199F5CCB6B782492F8AE1BAE
+          Serial Number: 59EF634B4CD86E9D2135046504409736
+    Request Extensions:
+        OCSP Nonce: 
+            0410CCC6DB9E5B49D7E51B7D9A5FC5F64C86
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 01D846E49EF6DAD58432DFB6DF13AFE67FFAA22E
+    Produced At: Sep  4 14:10:47 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 99A13D5E339D6899F2F62D3449CA0FB7AD56A71D
+      Issuer Key Hash: E085487D13A6D310199F5CCB6B782492F8AE1BAE
+      Serial Number: 59EF634B4CD86E9D2135046504409736
+    Cert Status: good
+    This Update: Sep  4 14:10:47 2024 GMT
+    Next Update: Sep  5 06:10:46 2024 GMT
+
+    Response Extensions:
+        OCSP Nonce: 
+            0410CCC6DB9E5B49D7E51B7D9A5FC5F64C86
+    Signature Algorithm: ecdsa-with-SHA256
+         30:45:02:21:00:8e:e0:fe:55:e7:63:70:7c:37:8d:88:4f:ff:
+         a2:6d:1e:80:e8:41:4c:6e:f7:cf:d3:29:31:f4:24:a5:4c:60:
+         ae:02:20:77:e3:4f:a7:4e:a7:b2:e3:c4:ea:4b:1c:80:e0:5b:
+         94:56:57:6e:b8:fb:fb:f8:37:fa:8c:f0:7e:07:fc:56:a4
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            78:03:f9:78:22:e4:34:2c:49:5a:a7:60:f5:48:cf:82
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=US, O=Apple Inc., CN=Apple Public EV Server ECC CA 1 - G1
+        Validity
+            Not Before: Aug  8 15:56:30 2024 GMT
+            Not After : Sep 19 15:56:29 2024 GMT
+        Subject: C=US, O=Apple Inc., CN=Apple Public EV Server ECC CA 1 - G1 OCSP Responder PG1 20240808
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:3c:b3:78:4c:4a:33:da:64:0f:b9:ea:09:7f:20:
+                    6c:17:f0:05:2e:2c:a7:9d:34:4e:fb:1d:44:d2:e2:
+                    d5:9a:2b:70:35:85:f3:cc:1e:a6:87:9f:61:6d:2b:
+                    99:ba:d7:b4:33:6f:e6:0a:49:66:31:e2:ab:73:db:
+                    a2:52:90:09:9f
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:E0:85:48:7D:13:A6:D3:10:19:9F:5C:CB:6B:78:24:92:F8:AE:1B:AE
+
+            OCSP No Check: 
+
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Subject Key Identifier: 
+                01:D8:46:E4:9E:F6:DA:D5:84:32:DF:B6:DF:13:AF:E6:7F:FA:A2:2E
+            X509v3 Key Usage: critical
+                Digital Signature
+    Signature Algorithm: ecdsa-with-SHA256
+         30:46:02:21:00:a8:43:76:c1:6d:1f:00:ce:57:e2:8d:a5:bb:
+         54:2e:81:4e:cb:b0:4a:b9:04:33:c4:16:00:3b:4c:59:43:89:
+         00:02:21:00:f8:91:ea:0c:72:a1:ee:80:0d:1e:84:b8:00:27:
+         40:ef:ab:08:fb:b9:08:6e:98:65:1b:81:e7:ac:80:ac:af:4a
+-----BEGIN CERTIFICATE-----
+MIICRTCCAeqgAwIBAgIQeAP5eCLkNCxJWqdg9UjPgjAKBggqhkjOPQQDAjBRMQsw
+CQYDVQQGEwJVUzETMBEGA1UEChMKQXBwbGUgSW5jLjEtMCsGA1UEAxMkQXBwbGUg
+UHVibGljIEVWIFNlcnZlciBFQ0MgQ0EgMSAtIEcxMB4XDTI0MDgwODE1NTYzMFoX
+DTI0MDkxOTE1NTYyOVowbTELMAkGA1UEBhMCVVMxEzARBgNVBAoMCkFwcGxlIElu
+Yy4xSTBHBgNVBAMMQEFwcGxlIFB1YmxpYyBFViBTZXJ2ZXIgRUNDIENBIDEgLSBH
+MSBPQ1NQIFJlc3BvbmRlciBQRzEgMjAyNDA4MDgwWTATBgcqhkjOPQIBBggqhkjO
+PQMBBwNCAAQ8s3hMSjPaZA+56gl/IGwX8AUuLKedNE77HUTS4tWaK3A1hfPMHqaH
+n2FtK5m617Qzb+YKSWYx4qtz26JSkAmfo4GHMIGEMAwGA1UdEwEB/wQCMAAwHwYD
+VR0jBBgwFoAU4IVIfROm0xAZn1zLa3gkkviuG64wDwYJKwYBBQUHMAEFBAIFADAT
+BgNVHSUEDDAKBggrBgEFBQcDCTAdBgNVHQ4EFgQUAdhG5J722tWEMt+23xOv5n/6
+oi4wDgYDVR0PAQH/BAQDAgeAMAoGCCqGSM49BAMCA0kAMEYCIQCoQ3bBbR8Azlfi
+jaW7VC6BTsuwSrkEM8QWADtMWUOJAAIhAPiR6gxyoe6ADR6EuAAnQO+rCPu5CG6Y
+ZRuB56yArK9K
+-----END CERTIFICATE-----
+cert.pem: good
+	This Update: Sep  4 14:10:47 2024 GMT
+	Next Update: Sep  5 06:10:46 2024 GMT

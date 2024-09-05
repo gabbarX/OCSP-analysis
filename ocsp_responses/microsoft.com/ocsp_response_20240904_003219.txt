@@ -1,0 +1,165 @@
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 1BC66318D19B621575EEB02B7469CD52D59A2AE2
+          Issuer Key Hash: F67E2FBD80A34AB2705BEBDF9A1FD8EDCA618007
+          Serial Number: 33006002ABD742B503C7FFAA590000006002AB
+    Request Extensions:
+        OCSP Nonce: 
+            0410BB643830BD5BFD26C5962C279ED4CD48
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 03F95F4C549823C3324345312E56092E469402D3
+    Produced At: Sep  3 19:02:20 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 1BC66318D19B621575EEB02B7469CD52D59A2AE2
+      Issuer Key Hash: F67E2FBD80A34AB2705BEBDF9A1FD8EDCA618007
+      Serial Number: 33006002ABD742B503C7FFAA590000006002AB
+    Cert Status: good
+    This Update: Sep  3 17:10:07 2024 GMT
+    Next Update: Sep 11 17:30:07 2024 GMT
+        Response Single Extensions:
+            1.3.6.1.4.1.311.21.4: 
+                .240907172007Z
+
+    Response Extensions:
+        OCSP Nonce: 
+            0410BB643830BD5BFD26C5962C279ED4CD48
+    Signature Algorithm: sha256WithRSAEncryption
+         65:83:e1:1f:56:8f:59:c7:90:17:be:ec:34:c7:bd:92:b7:e3:
+         67:29:19:74:da:2c:b8:94:4f:99:28:fb:5f:7c:9a:7e:17:6e:
+         af:0c:e7:af:ac:9a:56:13:11:fb:ce:90:ed:b6:88:e6:fe:4f:
+         26:25:07:c3:ba:ea:f8:28:0c:5b:eb:11:d3:d4:8f:18:6c:f0:
+         aa:bb:52:c8:48:a7:c1:0c:45:18:5b:f6:b3:8a:47:93:48:0c:
+         8c:43:43:3a:95:2e:50:fe:75:b4:ea:59:3d:66:3e:00:bd:d4:
+         0c:ca:73:ea:a4:4c:0c:c9:f2:1c:95:79:09:f3:44:f9:d7:21:
+         68:94:64:18:fa:a8:ef:c5:57:1e:bb:cf:a8:9c:30:c8:5d:d7:
+         03:68:39:f5:ff:25:1c:c9:8b:b3:6b:17:7c:db:41:16:63:96:
+         e1:91:95:61:38:ce:0d:58:a2:57:de:0f:de:5d:0b:56:ec:ff:
+         ac:7b:fd:63:9b:49:10:8f:c7:fe:21:e2:1e:d4:fb:f9:46:be:
+         36:b7:2d:bc:eb:1c:54:19:d8:ce:bd:ba:c1:88:15:65:57:e2:
+         b7:c9:15:0f:b8:97:d4:80:22:27:80:0b:fc:48:98:d3:9b:06:
+         c2:fb:09:10:7b:54:a3:95:ce:1d:03:54:35:d7:d8:b0:b3:e4:
+         3f:78:9a:64
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            33:00:62:79:87:61:c8:d6:df:20:59:8f:53:00:00:00:62:79:87
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 08
+        Validity
+            Not Before: Aug 31 15:50:34 2024 GMT
+            Not After : Sep 30 15:50:34 2024 GMT
+        Subject: C=US, ST=WA, L=Redmond, O=Microsoft, CN=AzureRSA08 OCSP Cert
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:d8:5d:bc:19:ee:b2:63:66:ec:d4:79:28:8a:6e:
+                    f6:95:06:7b:00:a1:08:77:42:88:11:73:d2:6a:97:
+                    50:2b:4f:41:6e:ff:fb:8a:e0:cb:0a:b3:86:f7:8d:
+                    12:ca:db:04:ed:de:1b:8d:c5:0b:d6:de:a7:2b:75:
+                    e2:35:6c:97:ed:f6:27:d5:33:c3:e8:24:cf:40:9a:
+                    0a:63:00:cb:c2:da:cb:77:cc:ef:a7:76:b2:01:4f:
+                    a5:49:62:74:aa:4b:a9:84:38:f8:10:4d:d9:91:31:
+                    f0:90:34:5c:d6:b0:ea:b9:df:ca:6c:64:a7:fd:f1:
+                    47:75:26:60:a7:42:2e:74:19:02:40:b6:93:98:da:
+                    06:33:c8:3b:2b:4f:6e:7f:a2:ca:28:38:54:50:d9:
+                    f9:72:5d:35:a3:70:ad:05:b1:33:82:8b:b7:da:79:
+                    50:62:67:78:a7:8f:7f:77:df:3f:af:7f:d6:d5:f3:
+                    8c:12:02:4d:50:8e:25:38:54:29:09:52:1c:9e:89:
+                    72:00:a7:63:45:f0:a7:79:5d:f6:b8:5d:5c:cd:1e:
+                    43:d7:35:25:4b:ce:13:18:95:fd:0a:91:10:12:ac:
+                    e6:05:3d:26:e8:75:b3:13:f4:82:b3:a1:32:fe:94:
+                    b6:04:a3:42:e3:08:e7:0d:51:96:b4:2e:72:8f:88:
+                    e6:51
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Subject Key Identifier: 
+                03:F9:5F:4C:54:98:23:C3:32:43:45:31:2E:56:09:2E:46:94:02:D3
+            X509v3 Authority Key Identifier: 
+                keyid:F6:7E:2F:BD:80:A3:4A:B2:70:5B:EB:DF:9A:1F:D8:ED:CA:61:80:07
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            1.3.6.1.4.1.311.21.7: 
+                0-.%+.....7.........F...........]..."......d...
+            1.3.6.1.4.1.311.21.10: 
+                0.0
+..+.......
+            OCSP No Check: 
+
+    Signature Algorithm: sha384WithRSAEncryption
+         69:82:de:ce:3f:ef:1e:5e:fe:e6:77:22:28:1d:d7:6c:a5:86:
+         cf:0e:a1:96:e5:50:38:2f:80:0c:f1:89:13:b8:b8:67:ab:2a:
+         c3:ed:48:a5:1f:3d:60:27:c8:45:eb:c1:8a:07:97:2d:06:75:
+         56:de:54:8c:2b:fc:99:a6:39:26:f1:c7:8b:c7:83:de:f1:dc:
+         85:d8:45:4f:40:54:88:dc:87:b4:ee:c5:0c:09:d0:d2:eb:f4:
+         a7:85:54:67:9c:91:10:7d:7a:da:2b:a2:8b:56:ac:81:54:a7:
+         bf:4b:f5:05:f9:0d:4c:22:ed:46:09:a1:f7:b3:46:7f:1c:bd:
+         01:5b:01:77:6b:c1:15:a0:c2:46:67:3d:05:48:c4:24:2e:76:
+         30:8a:d4:dc:1f:a1:7d:d5:e8:43:d8:e2:88:1a:16:46:0d:8f:
+         e9:3f:be:f6:1a:99:45:40:c4:d4:da:f4:b4:03:61:cf:05:32:
+         5c:c0:50:87:d0:0e:18:4a:6c:f3:0c:55:aa:8c:7c:e7:43:2a:
+         d7:16:84:c5:a5:2c:e1:87:fa:b9:4b:bd:27:f2:9a:ba:5f:6b:
+         38:a4:49:06:85:00:c5:f5:eb:32:4b:5e:99:df:cc:13:fe:70:
+         e1:0d:4d:76:48:56:a1:68:41:c7:fe:28:0e:ef:dc:01:78:d5:
+         54:b8:58:26:96:0c:2f:a9:3b:26:1e:ce:85:8b:cf:4b:a7:e6:
+         71:4d:48:28:a1:f8:e6:d5:3b:a0:a2:20:ae:91:d5:e7:8e:4a:
+         6f:25:b7:1c:a0:f6:38:96:5f:82:da:dd:36:cb:d2:53:74:20:
+         30:bc:15:68:da:82:cc:d6:c3:af:db:5f:ce:d5:7c:9d:6b:55:
+         2c:5b:fd:2a:8e:f9:1d:ae:94:cd:58:09:ee:f8:aa:16:56:4b:
+         18:8f:ee:b2:fa:00:c4:3e:df:78:dd:a5:4f:d8:d4:e4:cf:e6:
+         a5:38:9a:43:28:f4:3c:67:9d:fa:bc:06:b7:b8:8f:8a:c7:50:
+         81:3b:ee:73:80:1f:43:90:ad:f8:21:b4:6d:e1:35:53:a0:54:
+         3e:55:f8:d3:84:51:f2:dc:53:5a:97:14:31:64:72:7f:04:d4:
+         f9:1e:8e:e1:bc:65:c4:9e:e3:7c:77:1c:10:e1:d4:ad:0f:04:
+         15:dc:38:0b:6d:d5:e4:48:66:82:68:c7:38:0d:2e:db:55:a6:
+         a2:26:d4:9e:72:f8:9c:79:03:c4:cc:56:9b:b9:01:bb:ca:5a:
+         ab:77:e6:e0:65:9b:17:da:71:66:2e:2a:8a:8f:c1:4d:80:9e:
+         3b:b1:ca:e6:0d:4b:f8:96:32:99:e5:f4:75:f0:a4:c5:5d:aa:
+         35:78:22:98:f4:52:e0:48
+-----BEGIN CERTIFICATE-----
+MIIFLDCCAxSgAwIBAgITMwBieYdhyNbfIFmPUwAAAGJ5hzANBgkqhkiG9w0BAQwF
+ADBdMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9u
+MS4wLAYDVQQDEyVNaWNyb3NvZnQgQXp1cmUgUlNBIFRMUyBJc3N1aW5nIENBIDA4
+MB4XDTI0MDgzMTE1NTAzNFoXDTI0MDkzMDE1NTAzNFowXzELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAldBMRAwDgYDVQQHEwdSZWRtb25kMRIwEAYDVQQKEwlNaWNyb3Nv
+ZnQxHTAbBgNVBAMTFEF6dXJlUlNBMDggT0NTUCBDZXJ0MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA2F28Ge6yY2bs1Hkoim72lQZ7AKEId0KIEXPSapdQ
+K09Bbv/7iuDLCrOG940SytsE7d4bjcUL1t6nK3XiNWyX7fYn1TPD6CTPQJoKYwDL
+wtrLd8zvp3ayAU+lSWJ0qkuphDj4EE3ZkTHwkDRc1rDqud/KbGSn/fFHdSZgp0Iu
+dBkCQLaTmNoGM8g7K09uf6LKKDhUUNn5cl01o3CtBbEzgou32nlQYmd4p49/d98/
+r3/W1fOMEgJNUI4lOFQpCVIcnolyAKdjRfCneV32uF1czR5D1zUlS84TGJX9CpEQ
+EqzmBT0m6HWzE/SCs6Ey/pS2BKNC4wjnDVGWtC5yj4jmUQIDAQABo4HiMIHfMAwG
+A1UdEwEB/wQCMAAwEwYDVR0lBAwwCgYIKwYBBQUHAwkwHQYDVR0OBBYEFAP5X0xU
+mCPDMkNFMS5WCS5GlALTMB8GA1UdIwQYMBaAFPZ+L72Ao0qycFvr35of2O3KYYAH
+MA4GA1UdDwEB/wQEAwIHgDA8BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiHvdcb
+gefrRoKBnS6O0AyH8NodXYPZ1yKB9N4fAgFkAgEXMBsGCSsGAQQBgjcVCgQOMAww
+CgYIKwYBBQUHAwkwDwYJKwYBBQUHMAEFBAIFADANBgkqhkiG9w0BAQwFAAOCAgEA
+aYLezj/vHl7+5nciKB3XbKWGzw6hluVQOC+ADPGJE7i4Z6sqw+1IpR89YCfIRevB
+igeXLQZ1Vt5UjCv8maY5JvHHi8eD3vHchdhFT0BUiNyHtO7FDAnQ0uv0p4VUZ5yR
+EH162iuii1asgVSnv0v1BfkNTCLtRgmh97NGfxy9AVsBd2vBFaDCRmc9BUjEJC52
+MIrU3B+hfdXoQ9jiiBoWRg2P6T++9hqZRUDE1Nr0tANhzwUyXMBQh9AOGEps8wxV
+qox850Mq1xaExaUs4Yf6uUu9J/Kaul9rOKRJBoUAxfXrMktemd/ME/5w4Q1NdkhW
+oWhBx/4oDu/cAXjVVLhYJpYML6k7Jh7OhYvPS6fmcU1IKKH45tU7oKIgrpHV545K
+byW3HKD2OJZfgtrdNsvSU3QgMLwVaNqCzNbDr9tfztV8nWtVLFv9Ko75Ha6UzVgJ
+7viqFlZLGI/usvoAxD7feN2lT9jU5M/mpTiaQyj0PGed+rwGt7iPisdQgTvuc4Af
+Q5Ct+CG0beE1U6BUPlX404RR8txTWpcUMWRyfwTU+R6O4bxlxJ7jfHccEOHUrQ8E
+Fdw4C23V5EhmgmjHOA0u21WmoibUnnL4nHkDxMxWm7kBu8paq3fm4GWbF9pxZi4q
+io/BTYCeO7HK5g1L+JYymeX0dfCkxV2qNXgimPRS4Eg=
+-----END CERTIFICATE-----
+cert.pem: good
+	This Update: Sep  3 17:10:07 2024 GMT
+	Next Update: Sep 11 17:30:07 2024 GMT
