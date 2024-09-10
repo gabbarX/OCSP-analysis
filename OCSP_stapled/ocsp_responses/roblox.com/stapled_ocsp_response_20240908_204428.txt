@@ -1,0 +1,34 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 17D9D6252767F931C24943D93036448C6CA94FEB
+    Produced At: Sep  7 15:48:14 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 21F3459A10CAA6C84BDA1E3962B127D5338A7C48
+      Issuer Key Hash: 17D9D6252767F931C24943D93036448C6CA94FEB
+      Serial Number: EBDCBDC4D89976401FBBBCBC794E0C83
+    Cert Status: good
+    This Update: Sep  7 15:48:14 2024 GMT
+    Next Update: Sep 14 15:48:13 2024 GMT
+
+    Signature Algorithm: sha256WithRSAEncryption
+         7a:34:39:b9:3d:9a:a3:0c:32:6b:57:5d:41:d2:e4:c0:30:5d:
+         b5:f0:e4:6a:90:7a:14:e5:2b:8c:f3:16:2f:b4:fd:83:3e:0e:
+         49:cb:d3:c5:1f:01:ec:f3:f7:85:8e:c6:d0:42:3f:48:f7:42:
+         e7:20:fa:56:b0:c3:df:dd:6f:cc:59:ed:ee:ee:a9:00:a3:3f:
+         9c:0e:22:9b:e3:25:f9:f2:07:b3:c6:78:b1:dd:37:c3:70:1c:
+         17:5e:2e:8d:25:3b:41:56:d0:8c:7a:7b:e7:45:8e:21:03:97:
+         1b:4d:8f:d5:ab:c5:3b:2d:9d:ac:b4:89:82:3b:c1:ba:02:a4:
+         eb:51:a9:65:80:5d:42:da:3e:18:ea:58:d2:2d:91:dd:bf:5a:
+         e8:13:d0:9c:df:76:6d:26:80:c7:b9:1a:dc:5d:ec:1f:41:c2:
+         07:ec:e1:39:f2:fc:76:e4:15:6b:be:61:0d:44:78:c2:5e:c0:
+         d8:74:65:d1:8a:2c:8c:f3:22:9c:72:33:c5:ce:58:60:6a:0b:
+         72:b0:41:81:29:5a:56:b3:60:ac:f4:82:f8:f8:f3:f8:a6:4b:
+         d4:fa:67:8e:d6:5b:0a:ef:79:bb:ab:16:8b:5f:df:f0:c3:11:
+         21:4b:6f:11:82:c0:bd:7d:65:8c:bf:39:0d:35:40:20:f4:b2:
+         5a:d1:9e:6a
+======================================
+---

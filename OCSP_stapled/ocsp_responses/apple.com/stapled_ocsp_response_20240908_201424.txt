@@ -1,0 +1,63 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 638B41EF5F253D60DB5E3A09EB69B1C0A5979AC2
+    Produced At: Sep  8 09:47:04 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 99A13D5E339D6899F2F62D3449CA0FB7AD56A71D
+      Issuer Key Hash: E085487D13A6D310199F5CCB6B782492F8AE1BAE
+      Serial Number: 59EF634B4CD86E9D2135046504409736
+    Cert Status: good
+    This Update: Sep  8 09:47:04 2024 GMT
+    Next Update: Sep  9 01:47:03 2024 GMT
+
+    Signature Algorithm: ecdsa-with-SHA256
+         30:46:02:21:00:e9:24:6d:39:30:66:5d:35:2c:77:87:a5:af:
+         ca:34:d9:0b:40:8e:ae:7c:cb:6b:32:4c:30:8e:25:a2:b2:6a:
+         d0:02:21:00:8e:89:3a:f4:1d:b5:54:8b:67:9c:d8:c8:b9:a3:
+         d1:5a:38:73:4e:7c:6c:9e:cf:69:81:85:6e:6f:16:4e:2b:3c
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            34:f5:a0:15:5b:ad:bc:40:27:e3:fa:9f:88:2a:41:8f
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=US, O=Apple Inc., CN=Apple Public EV Server ECC CA 1 - G1
+        Validity
+            Not Before: Aug  8 15:56:24 2024 GMT
+            Not After : Sep 19 15:56:23 2024 GMT
+        Subject: C=US, O=Apple Inc., CN=Apple Public EV Server ECC CA 1 - G1 OCSP Responder RG1 20240808
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:64:af:88:59:01:66:56:fa:41:0c:81:63:b5:1e:
+                    49:d4:e0:8a:1e:3e:56:96:fd:45:f3:b4:9d:7a:ec:
+                    25:2c:5f:9c:e4:13:43:17:f3:95:25:1e:06:9a:e0:
+                    f0:4e:33:68:b6:05:ad:22:33:8a:c7:49:8d:2f:68:
+                    0b:76:e4:70:83
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:E0:85:48:7D:13:A6:D3:10:19:9F:5C:CB:6B:78:24:92:F8:AE:1B:AE
+
+            OCSP No Check: 
+
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Subject Key Identifier: 
+                63:8B:41:EF:5F:25:3D:60:DB:5E:3A:09:EB:69:B1:C0:A5:97:9A:C2
+            X509v3 Key Usage: critical
+                Digital Signature
+    Signature Algorithm: ecdsa-with-SHA256
+         30:44:02:20:00:bb:16:6b:0e:59:b0:e6:65:17:ae:10:4b:67:
+         12:24:0f:e6:70:e7:95:f8:13:67:ed:36:a5:04:25:33:44:ac:
+         02:20:6c:30:67:5a:b2:7a:73:ee:66:e3:47:50:ba:21:94:c4:
+         e3:7e:04:b7:eb:96:1e:7f:93:20:c2:69:43:3d:2b:46
+-----BEGIN CERTIFICATE-----

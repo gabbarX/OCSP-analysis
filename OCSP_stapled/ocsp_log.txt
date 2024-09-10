@@ -1,0 +1,3173 @@
+Processing domain: wikipedia.org at 20240907_234841
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/wikipedia.org/stapled_ocsp_response_20240907_234841.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240907_234841
+No stapled OCSP response found for gstatic.com
+-------------------------------------
+Processing domain: google.com at 20240907_234841
+No stapled OCSP response found for google.com
+-------------------------------------
+Processing domain: yahoo.com at 20240907_234842
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/yahoo.com/stapled_ocsp_response_20240907_234842.txt
+-------------------------------------
+Processing domain: facebook.com at 20240907_234842
+No stapled OCSP response found for facebook.com
+-------------------------------------
+Processing domain: twitter.com at 20240907_234843
+No stapled OCSP response found for twitter.com
+-------------------------------------
+Processing domain: linkedin.com at 20240907_234843
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/linkedin.com/stapled_ocsp_response_20240907_234843.txt
+-------------------------------------
+Processing domain: apple.com at 20240907_234843
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/apple.com/stapled_ocsp_response_20240907_234843.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240907_234843
+No stapled OCSP response found for microsoft.com
+-------------------------------------
+Processing domain: amazon.com at 20240907_234844
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/amazon.com/stapled_ocsp_response_20240907_234844.txt
+-------------------------------------
+Processing domain: icloud.com at 20240907_234845
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/icloud.com/stapled_ocsp_response_20240907_234845.txt
+-------------------------------------
+Processing domain: instagram.com at 20240907_234845
+No stapled OCSP response found for instagram.com
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240907_235201
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/wikipedia.org/stapled_ocsp_response_20240907_235201.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240907_235201
+No stapled OCSP response found for gstatic.com
+-------------------------------------
+Processing domain: google.com at 20240907_235201
+No stapled OCSP response found for google.com
+-------------------------------------
+Processing domain: yahoo.com at 20240907_235201
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/yahoo.com/stapled_ocsp_response_20240907_235201.txt
+-------------------------------------
+Processing domain: facebook.com at 20240907_235202
+No stapled OCSP response found for facebook.com
+-------------------------------------
+Processing domain: twitter.com at 20240907_235202
+No stapled OCSP response found for twitter.com
+-------------------------------------
+Processing domain: linkedin.com at 20240907_235203
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/linkedin.com/stapled_ocsp_response_20240907_235203.txt
+-------------------------------------
+Processing domain: apple.com at 20240907_235203
+No stapled OCSP response found for apple.com
+-------------------------------------
+Processing domain: microsoft.com at 20240907_235203
+No stapled OCSP response found for microsoft.com
+-------------------------------------
+Processing domain: amazon.com at 20240907_235204
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/amazon.com/stapled_ocsp_response_20240907_235204.txt
+-------------------------------------
+Processing domain: icloud.com at 20240907_235204
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to stapled_ocsp_responses/icloud.com/stapled_ocsp_response_20240907_235204.txt
+-------------------------------------
+Processing domain: instagram.com at 20240907_235204
+No stapled OCSP response found for instagram.com
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240907_235354
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240907_235354.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240907_235354
+No stapled OCSP response found for gstatic.com
+-------------------------------------
+Processing domain: google.com at 20240907_235355
+No stapled OCSP response found for google.com
+-------------------------------------
+Processing domain: yahoo.com at 20240907_235355
+No stapled OCSP response found for yahoo.com
+-------------------------------------
+Processing domain: facebook.com at 20240907_235356
+No stapled OCSP response found for facebook.com
+-------------------------------------
+Processing domain: twitter.com at 20240907_235356
+No stapled OCSP response found for twitter.com
+-------------------------------------
+Processing domain: linkedin.com at 20240907_235356
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240907_235356.txt
+-------------------------------------
+Processing domain: apple.com at 20240907_235356
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 09:45:51 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240907_235356.txt
+-------------------------------------
+Processing domain: microsoft.com at 20240907_235356
+No stapled OCSP response found for microsoft.com
+-------------------------------------
+Processing domain: amazon.com at 20240907_235357
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240907_235357.txt
+-------------------------------------
+Processing domain: icloud.com at 20240907_235358
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240907_235358.txt
+-------------------------------------
+Processing domain: instagram.com at 20240907_235358
+No stapled OCSP response found for instagram.com
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240907_235940
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240907_235940.txt
+-------------------------------------
+Processing domain: gstatic.com at 20240907_235941
+No stapled OCSP response found for gstatic.com
+-------------------------------------
+Processing domain: google.com at 20240907_235941
+No stapled OCSP response found for google.com
+-------------------------------------
+Processing domain: yahoo.com at 20240907_235941
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240907_235941.txt
+-------------------------------------
+Processing domain: facebook.com at 20240907_235942
+No stapled OCSP response found for facebook.com
+-------------------------------------
+Processing domain: twitter.com at 20240907_235942
+No stapled OCSP response found for twitter.com
+-------------------------------------
+Processing domain: linkedin.com at 20240907_235942
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240907_235942.txt
+-------------------------------------
+Processing domain: apple.com at 20240907_235942
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240907_235942.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240907_235943
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:48:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240907_235943.txt
+-------------------------------------
+Processing domain: amazon.com at 20240907_235943
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240907_235943.txt
+-------------------------------------
+Processing domain: icloud.com at 20240907_235943
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240907_235943.txt
+-------------------------------------
+Processing domain: instagram.com at 20240907_235944
+No stapled OCSP response found for instagram.com
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_000833
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_000833.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_000833
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_000833.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_000838
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_000838.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_000839
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_000839.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_000840
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_000840.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_000841
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 15:48:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_000841.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_000842
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_000842.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_000843
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_000843.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_000843
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_000843.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_000843
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_000843.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_000845
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_000845.txt
+-------------------------------------
+Processing domain: whatsapp.com at 20240908_000845
+No stapled OCSP response found for whatsapp.com
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_001039
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_001039.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_001039
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_001039.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_001039
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_001039.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_001039
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_001039.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_001040
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_001040.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_001040
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_001040.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_001041
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_001041.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_001041
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_001041.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_001041
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  7 08:23:30 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_001041.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_001041
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_001041.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_001042
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_001042.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_001042
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_001042.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_004042
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_004042.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_004042
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_004042.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_004043
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_004043.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_004043
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_004043.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_004044
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_004044.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_004044
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_004044.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_004045
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_004045.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_004045
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_004045.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_004045
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 21:45:17 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_004045.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_004045
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_004045.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_004046
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_004046.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_004046
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_004046.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_011046
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_011046.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_011047
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_011047.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_011047
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_011047.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_011047
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_011047.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_011048
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_011048.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_011048
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_011048.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_011049
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_011049.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_011050
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_011050.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_011050
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 21:45:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_011050.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_011050
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_011050.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_011050
+No stapled OCSP response found for icloud.com
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_011051
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_011051.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_014051
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_014051.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_014051
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_014051.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_014052
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_014052.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_014052
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_014052.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_014053
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_014053.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_014053
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_014053.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_014054
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_014054.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_014054
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_014054.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_014054
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 21:45:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_014054.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_014054
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_014054.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_014055
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_014055.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_014055
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_014055.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_021055
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  6 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_021055.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_021056
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_021056.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_021056
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_021056.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_021056
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_021056.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_021057
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_021057.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_021058
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_021058.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_021058
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_021058.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_021058
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_021058.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_021058
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_021058.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_021059
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_021059.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_021059
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_021059.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_021100
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_021100.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_024100
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_024100.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_024100
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_024100.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_024100
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_024100.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_024101
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_024101.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_024102
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  2 14:02:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_024102.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_024102
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_024102.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_024102
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_024102.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_024102
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_024102.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_024103
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_024103.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_024103
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_024103.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_024103
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 12:56:45 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_024103.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_024104
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_024104.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_031104
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_031104.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_031104
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_031104.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_031105
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_031105.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_031105
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_031105.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_031106
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_031106.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_031106
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  4 03:48:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_031106.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_031107
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_031107.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_031107
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_031107.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_031108
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_031108.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_031108
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_031108.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_031108
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_031108.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_031109
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 16:52:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_031109.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_034109
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_034109.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_034109
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_034109.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_034110
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_034110.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_034110
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_034110.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_034111
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_034111.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_034111
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_034111.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_034112
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_034112.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_034112
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_034112.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_034112
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  5 20:46:54 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_034112.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_034113
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_034113.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_034114
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_034114.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_034114
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_034114.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_041114
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_041114.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_041114
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_041114.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_041114
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_041114.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_041114
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_041114.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_041115
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_041115.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_041116
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_041116.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_041116
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_041116.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_041117
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_041117.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_041117
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  5 20:46:54 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_041117.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_041117
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_041117.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_041118
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_041118.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_041118
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_041118.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_044119
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_044119.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_044119
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_044119.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_044120
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_044120.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_044120
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_044120.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_044121
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_044121.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_044121
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_044121.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_044121
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  5 13:36:36 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_044121.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_044121
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_044121.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_044122
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_044122.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_044122
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_044122.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_044122
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_044122.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_044122
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_044122.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_051123
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_051123.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_051123
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_051123.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_051123
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_051123.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_051124
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_051124.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_051125
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_051125.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_051125
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 11:20:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_051125.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_051126
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_051126.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_051126
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_051126.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_051126
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_051126.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_051126
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_051126.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_051127
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_051127.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_051127
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_051127.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_054128
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_054128.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_054128
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_054128.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_054128
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_054128.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_054129
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_054129.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_054130
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_054130.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_054130
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_054130.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_054130
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_054130.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_054130
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_054130.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_054131
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  5 20:46:54 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_054131.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_054131
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_054131.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_054131
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_054131.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_054132
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_054132.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_061132
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_061132.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_061132
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_061132.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_061133
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_061133.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_061133
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_061133.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_061134
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_061134.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_061134
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_061134.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_061135
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_061135.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_061135
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_061135.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_061135
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_061135.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_061135
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_061135.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_061136
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_061136.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_061136
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_061136.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_064137
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_064137.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_064137
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_064137.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_064138
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_064138.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_064138
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_064138.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_064139
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_064139.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_064139
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_064139.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_064139
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_064139.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_064139
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_064139.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_064140
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_064140.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_064140
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_064140.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_064140
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_064140.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_064141
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_064141.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_071141
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_071141.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_071141
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_071141.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_071141
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_071141.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_071142
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_071142.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_071142
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_071142.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_071143
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_071143.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_071143
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  6 13:36:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_071143.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_071144
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_071144.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_071144
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_071144.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_071144
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_071144.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_071145
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_071145.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_071145
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_071145.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_074145
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_074145.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_074146
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_074146.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_074146
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_074146.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_074147
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_074147.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_074147
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_074147.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_074147
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_074147.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_074148
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_074148.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_074148
+Stapled OCSP response found for apple.com
+    Produced At: Sep  7 17:46:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_074148.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_074148
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  1 21:31:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_074148.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_074149
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_074149.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_074149
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_074149.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_074149
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_074149.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_081150
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_081150.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_081150
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_081150.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_081151
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_081151.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_081151
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_081151.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_081152
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_081152.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_081152
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_081152.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_081153
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_081153.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_081153
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_081153.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_081154
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_081154.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_081154
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_081154.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_081155
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_081155.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_081157
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  7 21:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_081157.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_084157
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_084157.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_084157
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_084157.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_084158
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_084158.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_084158
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_084158.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_084159
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_084159.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_084159
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_084159.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_084159
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  4 13:36:41 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_084159.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_084159
+No stapled OCSP response found for apple.com
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_084200
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  5 20:46:59 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_084200.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_084200
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_084200.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_084200
+No stapled OCSP response found for icloud.com
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_084201
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_084201.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_091201
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_091201.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_091201
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_091201.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_091202
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_091202.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_091202
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_091202.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_091203
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_091203.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_091203
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_091203.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_091204
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_091204.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_091204
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_091204.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_091204
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:46:32 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_091204.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_091204
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_091204.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_091205
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_091205.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_091205
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_091205.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_094206
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_094206.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_094206
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_094206.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_094207
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_094207.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_094207
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_094207.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_094208
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_094208.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_094208
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_094208.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_094208
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  6 13:36:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_094208.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_094208
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_094208.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_094208
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  7 08:23:30 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_094208.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_094209
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_094209.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_094209
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_094209.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_094209
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_094209.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_101210
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_101210.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_101210
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_101210.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_101210
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_101210.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_101210
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_101210.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_101211
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_101211.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_101212
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_101212.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_101212
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_101212.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_101212
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_101212.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_101213
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_101213.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_101213
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_101213.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_101214
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_101214.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_101214
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_101214.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_104214
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_104214.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_104215
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_104215.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_104217
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_104217.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_104218
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_104218.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_104218
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_104218.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_104219
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_104219.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_104219
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_104219.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_104219
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_104219.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_104219
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_104219.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_104219
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_104219.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_104220
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  7 20:56:58 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_104220.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_104227
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_104227.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_111228
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_111228.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_111228
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_111228.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_111229
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_111229.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_111229
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_111229.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_111230
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_111230.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_111230
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_111230.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_111231
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_111231.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_111231
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_111231.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_111231
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_111231.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_111231
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_111231.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_111232
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_111232.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_111233
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_111233.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_114233
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_114233.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_114234
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_114234.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_114234
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_114234.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_114234
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_114234.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_114235
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_114235.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_114235
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_114235.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_114235
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_114235.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_114236
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_114236.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_114236
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_114236.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_114236
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_114236.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_114237
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_114237.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_114237
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_114237.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_121237
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_121237.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_121238
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_121238.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_121238
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_121238.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_121238
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_121238.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_121240
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_121240.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_121240
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_121240.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_121240
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_121240.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_121241
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_121241.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_121241
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_121241.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_121241
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_121241.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_121242
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_121242.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_121242
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_121242.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_124243
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_124243.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_124243
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_124243.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_124244
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_124244.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_124244
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_124244.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_124245
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_124245
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_124245
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_124245
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_124245
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_124245
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_124245.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_124246
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_124246.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_124246
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_124246.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_131247
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_131247.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_131252
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_131252.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_131252
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_131252.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_131253
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_131253.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_131254
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_131254.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_131254
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_131254.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_131255
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_131255.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_131255
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_131255.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_131255
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 20:52:11 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_131255.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_131256
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_131256.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_131256
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_131256.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_131257
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 02:13:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_131257.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_134258
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_134258.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_134259
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_134259.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_134259
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_134259.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_134300
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_134300.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_134301
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_134301
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_134301
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_134301
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_134301
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 08:23:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_134301
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_134301.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_134302
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_134302.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_134303
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_134303.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_141303
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_141303.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_141304
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_141304.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_141305
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_141305.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_141305
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_141305.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_141306
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_141306.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_141306
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_141306.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_141306
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_141306.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_141307
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_141307.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_141307
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_141307.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_141307
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_141307.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_141308
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_141308.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_141308
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_141308.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_144309
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_144309.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_144309
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_144309.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_144310
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_144310.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_144310
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_144310.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_144311
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_144311.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_144311
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 15:48:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_144311.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_144312
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_144312.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_144312
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_144312.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_144312
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 08:23:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_144312.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_144312
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_144312.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_144313
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_144313.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_144313
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_144313.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_151313
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_151313.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_151314
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_151314.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_151314
+No stapled OCSP response found for fastly.net
+-------------------------------------
+Processing domain: yahoo.com at 20240908_151314
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_151314.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_151315
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_151315.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_151316
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_151316.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_151316
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_151316.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_151317
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_151317.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_151317
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_151317.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_151317
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_151317.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_151318
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_151318.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_151318
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_151318.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_154318
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_154318.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_154319
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_154319.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_154319
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_154319.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_154320
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_154320.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_154321
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_154321.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_154321
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_154321.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_154321
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_154321.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_154321
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 01:47:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_154321.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_154322
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 08:23:02 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_154322.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_154322
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_154322.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_154322
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_154322.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_154323
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_154323.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_161323
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_161323.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_161323
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_161323.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_161324
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_161324.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_161324
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_161324.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_161325
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_161325.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_161325
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_161325.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_161326
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_161326.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_161326
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_161326.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_161327
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:49:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_161327.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_161327
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_161327.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_161327
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_161327.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_161328
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_161328.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_164328
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_164328.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_164328
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_164328.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_164329
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_164329.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_164330
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_164330.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_164331
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_164331
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_164331
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_164331
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_164331
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  5 20:47:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_164331
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_164331.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_164332
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_164332.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_164332
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_164332.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_171333
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_171333.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_171333
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_171333.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_171333
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_171333.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_171334
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  7 09:49:07 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_171334.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_171335
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_171335.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_171335
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 15:48:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_171335.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_171336
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_171336.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_171336
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_171336.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_171336
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:46:29 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_171336.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_171336
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  7 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_171336.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_171337
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_171337.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_171337
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_171337.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_174338
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_174338.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_174338
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_174338.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_174339
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_174339.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_174339
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_174339.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_174340
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_174340.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_174340
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_174340.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_174341
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_174341.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_174341
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_174341.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_174341
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  7 21:42:51 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_174341.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_174341
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_174341.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_174342
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_174342.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_174342
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_174342.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_181342
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_181342.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_181343
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_181343.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_181343
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_181343.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_181343
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_181343.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_181344
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_181344.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_181345
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_181345.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_181345
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_181345.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_181346
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_181346.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_181346
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_181346.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_181346
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_181346.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_181347
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_181347.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_181347
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 07:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_181347.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_184347
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_184347.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_184348
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_184348.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_184350
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_184350.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_184350
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_184350.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_184351
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_184351.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_184351
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_184351.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_184352
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_184352.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_184352
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_184352.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_184353
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:45:32 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_184353.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_184359
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_184359.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_184400
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_184400.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_184400
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_184400.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_191411
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_191411.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_191411
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_191411.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_191411
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_191411.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_191412
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_191412.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_191413
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_191413.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_191414
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_191414.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_191414
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_191414.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_191414
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_191414.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_191415
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 20:52:11 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_191415.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_191415
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_191415.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_191416
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 04:59:55 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_191416.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_191416
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_191416.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_194416
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_194416.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_194417
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_194417.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_194417
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_194417.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_194417
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_194417.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_194418
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_194418.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_194418
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_194418.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_194419
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_194419.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_194419
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_194419.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_194419
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  3 21:46:15 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_194419.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_194419
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_194419.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_194420
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_194420.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_194420
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_194420.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_201420
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_201420.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_201421
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_201421.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_201421
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_201421.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_201421
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_201421.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_201422
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_201422.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_201423
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_201423.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_201423
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  6 13:36:37 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_201423.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_201424
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_201424.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_201424
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:49:08 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_201424.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_201424
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_201424.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_201425
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_201425.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_201425
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_201425.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_204425
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_204425.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_204426
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_204426.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_204427
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_204427.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_204427
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_204427.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_204428
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_204428.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_204428
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 15:48:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_204428.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_204428
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_204428.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_204429
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_204429.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_204429
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:46:29 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_204429.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_204429
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_204429.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_204430
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_204430.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_204430
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_204430.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_211430
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_211430.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_211431
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_211431.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_211431
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_211431.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_211431
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_211431.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_211432
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_211432.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_211432
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_211432.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_211433
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_211433.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_211433
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_211433.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_211433
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_211433.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_211433
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_211433.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_211434
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_211434.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_211435
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_211435.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_214435
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_214435.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_214436
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_214436.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_214436
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_214436.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_214437
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_214437.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_214438
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_214438.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_214438
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_214438.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_214438
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_214438.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_214438
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_214438.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_214439
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:14 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_214439.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_214439
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_214439.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_214440
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_214440.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_214440
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_214440.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_221441
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_221441.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_221441
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_221441.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_221442
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_221442.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_221442
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_221442.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_221443
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_221443.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_221443
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_221443.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_221443
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_221443.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_221444
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_221444.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_221444
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:46:32 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_221444.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_221445
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_221445.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_221445
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_221445.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_221446
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_221446.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_224446
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_224446.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_224446
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_224446.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_224447
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_224447.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_224447
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_224447.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_224448
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_224448.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_224448
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_224448.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_224449
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_224449.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_224449
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_224449.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_224449
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:13 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_224449.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_224449
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_224449.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_224450
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_224450.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_224450
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_224450.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_231451
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_231451.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_231451
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_231451.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_231451
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_231451.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_231452
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_231452.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_231452
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_231452.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_231453
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  5 22:57:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_231453.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_231453
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_231453.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_231454
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_231454.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_231454
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  6 20:47:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_231454.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_231454
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_231454.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_231455
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_231455.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_231455
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 12:51:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_231455.txt
+-------------------------------------
+Sleeping for 30 minutes...
+Processing domain: wikipedia.org at 20240908_234456
+Stapled OCSP response found for wikipedia.org
+    Produced At: Sep  7 16:00:25 2024 GMT
+Stapled OCSP response saved to ocsp_responses/wikipedia.org/stapled_ocsp_response_20240908_234456.txt
+-------------------------------------
+Processing domain: unity3d.com at 20240908_234456
+Stapled OCSP response found for unity3d.com
+    Produced At: Sep  4 20:07:03 2024 GMT
+Stapled OCSP response saved to ocsp_responses/unity3d.com/stapled_ocsp_response_20240908_234456.txt
+-------------------------------------
+Processing domain: fastly.net at 20240908_234457
+Stapled OCSP response found for fastly.net
+    Produced At: Sep  7 16:15:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastly.net/stapled_ocsp_response_20240908_234457.txt
+-------------------------------------
+Processing domain: yahoo.com at 20240908_234457
+Stapled OCSP response found for yahoo.com
+    Produced At: Sep  8 09:49:21 2024 GMT
+Stapled OCSP response saved to ocsp_responses/yahoo.com/stapled_ocsp_response_20240908_234457.txt
+-------------------------------------
+Processing domain: casalemedia.com at 20240908_234458
+Stapled OCSP response found for casalemedia.com
+    Produced At: Sep  6 07:56:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/casalemedia.com/stapled_ocsp_response_20240908_234458.txt
+-------------------------------------
+Processing domain: roblox.com at 20240908_234458
+Stapled OCSP response found for roblox.com
+    Produced At: Sep  7 12:42:27 2024 GMT
+Stapled OCSP response saved to ocsp_responses/roblox.com/stapled_ocsp_response_20240908_234458.txt
+-------------------------------------
+Processing domain: linkedin.com at 20240908_234458
+Stapled OCSP response found for linkedin.com
+    Produced At: Sep  2 13:36:48 2024 GMT
+Stapled OCSP response saved to ocsp_responses/linkedin.com/stapled_ocsp_response_20240908_234458.txt
+-------------------------------------
+Processing domain: apple.com at 20240908_234458
+Stapled OCSP response found for apple.com
+    Produced At: Sep  8 09:47:04 2024 GMT
+Stapled OCSP response saved to ocsp_responses/apple.com/stapled_ocsp_response_20240908_234458.txt
+-------------------------------------
+Processing domain: www.microsoft.com at 20240908_234459
+Stapled OCSP response found for www.microsoft.com
+    Produced At: Sep  4 21:45:34 2024 GMT
+Stapled OCSP response saved to ocsp_responses/www.microsoft.com/stapled_ocsp_response_20240908_234459.txt
+-------------------------------------
+Processing domain: amazon.com at 20240908_234459
+Stapled OCSP response found for amazon.com
+    Produced At: Sep  8 10:13:16 2024 GMT
+Stapled OCSP response saved to ocsp_responses/amazon.com/stapled_ocsp_response_20240908_234459.txt
+-------------------------------------
+Processing domain: icloud.com at 20240908_234500
+Stapled OCSP response found for icloud.com
+    Produced At: Sep  8 13:06:06 2024 GMT
+Stapled OCSP response saved to ocsp_responses/icloud.com/stapled_ocsp_response_20240908_234500.txt
+-------------------------------------
+Processing domain: fastcompany.com at 20240908_234500
+Stapled OCSP response found for fastcompany.com
+    Produced At: Sep  8 17:58:00 2024 GMT
+Stapled OCSP response saved to ocsp_responses/fastcompany.com/stapled_ocsp_response_20240908_234500.txt
+-------------------------------------
+Sleeping for 30 minutes...

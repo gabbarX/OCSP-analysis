@@ -1,0 +1,25 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 0ABC0829178CA5396D7A0ECE33C72EB3EDFBC37A
+    Produced At: Sep  6 16:00:25 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 2B1D1E98CCF37604D6C1C8BD15A224C804130038
+      Issuer Key Hash: 0ABC0829178CA5396D7A0ECE33C72EB3EDFBC37A
+      Serial Number: 07419E39583A4C76CF1EA14347FA5F3A
+    Cert Status: good
+    This Update: Sep  6 15:45:01 2024 GMT
+    Next Update: Sep 13 14:45:01 2024 GMT
+
+    Signature Algorithm: ecdsa-with-SHA384
+         30:66:02:31:00:ee:69:12:c9:20:9e:9b:f6:c0:2a:64:7e:db:
+         8f:d8:8a:71:13:06:8d:36:ac:ed:9a:89:85:63:e5:b9:2b:fb:
+         a9:ff:41:2b:27:63:53:85:ae:f2:12:35:eb:81:32:d0:f7:02:
+         31:00:cf:fa:d6:13:7f:1d:5b:04:25:61:17:a7:91:67:39:e0:
+         ac:1b:88:91:27:da:f7:a1:80:77:58:c7:c1:3d:92:5c:a3:5f:
+         05:49:fb:0e:81:e0:6b:49:d9:4d:fb:63:06:50
+======================================
+---

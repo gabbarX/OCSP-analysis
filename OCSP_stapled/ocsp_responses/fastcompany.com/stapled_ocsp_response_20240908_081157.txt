@@ -1,0 +1,97 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 3295BCCE233950B8BAC8377FEE42F954A65155CF
+    Produced At: Sep  7 21:51:00 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 5B64661103AEF249418283CC741D5A6B46246513
+      Issuer Key Hash: AA11718F95C458988BB16E0F3B506824BCB819BC
+      Serial Number: 01EB5D06B6F527C12D269597CDDF482E
+    Cert Status: good
+    This Update: Sep  7 21:00:00 2024 GMT
+    Next Update: Sep  8 09:00:00 2024 GMT
+
+    Signature Algorithm: sha256WithRSAEncryption
+         29:db:30:b8:57:69:fd:87:56:61:d1:c3:c6:44:0f:48:1b:75:
+         c5:65:2b:b4:1e:07:1f:99:4a:c0:7f:c7:fc:3e:55:b6:03:cb:
+         ad:3c:37:43:85:97:42:94:d3:23:51:e6:50:e8:48:61:b3:38:
+         a2:3e:7f:74:ae:95:16:ba:8e:cf:0f:ab:6b:09:30:9b:f9:4f:
+         8c:27:e9:4a:eb:c2:98:fb:f6:e3:2b:a2:a4:dd:77:36:ca:eb:
+         43:5e:17:27:75:f5:04:02:f5:c9:66:f6:b6:af:a2:22:75:4e:
+         76:68:7f:43:77:95:c0:54:47:e3:13:ac:1d:df:14:35:f1:af:
+         14:fd:09:a3:46:90:99:55:f4:d4:9d:34:a5:7b:07:62:95:96:
+         87:84:15:bc:34:c7:37:40:df:02:c6:2e:a8:de:cc:6f:c6:c8:
+         11:b3:41:d0:25:bb:bf:a2:f9:ae:61:c7:5b:9a:4f:9e:d4:85:
+         f4:4a:6b:07:16:92:2b:e4:7a:9d:37:fa:62:4a:36:1c:b4:ae:
+         42:bb:04:0f:4c:0a:9d:00:5d:f2:89:54:3c:6f:79:63:99:2c:
+         ca:5f:37:80:db:64:dd:47:8c:c6:0e:d0:85:69:2a:e9:54:5f:
+         73:0a:28:a3:95:2d:13:ab:a9:c5:ae:08:ba:7f:18:22:c4:f0:
+         e6:39:00:1b
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            01:51:17:31:f9:c6:cf:4a:8b:24:ba:bb:b5:66:2d:10
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2023 Q4
+        Validity
+            Not Before: Sep  3 12:54:05 2024 GMT
+            Not After : Sep 10 12:54:05 2024 GMT
+        Subject: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2023 Q4 - OCSP Responder
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:a9:2c:b4:03:28:50:a6:56:55:06:b5:7b:fe:df:
+                    68:9f:3c:50:eb:de:46:15:37:66:30:d6:70:00:3a:
+                    b2:12:51:87:1e:f0:73:55:44:9d:15:74:75:dd:70:
+                    e0:66:4a:7c:93:17:8a:05:44:49:16:fe:ac:aa:94:
+                    8c:ef:58:67:f2:6d:38:1b:78:9a:04:7f:e7:29:71:
+                    90:00:35:2c:c4:81:9f:68:25:7a:8f:06:90:63:66:
+                    0e:17:f5:4e:2a:ed:52:53:8c:52:0f:46:94:7f:d1:
+                    77:ef:5b:ab:b1:54:26:dd:43:f7:fe:e1:f5:ec:88:
+                    4c:f2:8e:68:77:ee:b7:4f:88:a6:73:0f:c7:08:d1:
+                    26:bd:62:14:4d:92:15:54:20:9a:a5:37:44:db:fa:
+                    c2:16:e6:3a:e0:f6:10:68:54:60:da:0a:3b:a1:73:
+                    64:67:10:de:91:fd:85:c5:e0:f9:a8:07:d3:35:e2:
+                    da:d9:6c:3d:f1:7b:10:90:88:2f:df:ff:8b:fa:fc:
+                    d2:81:a4:56:5e:06:65:ab:1e:20:5c:6b:6b:76:b8:
+                    0c:14:71:42:40:16:df:8f:df:4e:c1:8d:d4:7f:b0:
+                    bb:7f:c8:bb:ca:58:ec:ba:c1:46:83:da:dd:2d:d1:
+                    aa:31:85:bc:9a:44:17:f5:98:b4:19:78:74:b3:70:
+                    f9:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            OCSP No Check: 
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Subject Key Identifier: 
+                32:95:BC:CE:23:39:50:B8:BA:C8:37:7F:EE:42:F9:54:A6:51:55:CF
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:AA:11:71:8F:95:C4:58:98:8B:B1:6E:0F:3B:50:68:24:BC:B8:19:BC
+
+    Signature Algorithm: sha256WithRSAEncryption
+         7b:e8:d6:d5:1b:97:35:2c:d2:cf:ff:e4:9f:b4:03:db:ef:00:
+         62:a2:b6:6a:9f:5e:16:f3:1b:a6:d5:e8:cc:2b:03:52:fb:20:
+         b8:07:26:dc:d1:c2:c4:98:8a:d7:34:ca:ee:63:bb:2b:64:97:
+         96:3d:05:40:46:65:cd:35:fb:10:c1:8d:7e:4b:b6:64:ae:1e:
+         24:6e:7a:da:a7:65:93:4b:18:16:fa:9b:31:e2:af:bc:87:4d:
+         99:bc:bd:a2:17:8d:4c:18:c7:d4:a0:95:65:54:db:e7:9a:9a:
+         dd:2e:fb:b7:fb:bd:6a:c9:73:45:c2:e5:38:ef:e3:f7:d7:63:
+         91:b5:7f:66:0a:69:b5:51:4b:35:a8:5b:fd:4b:81:98:da:1d:
+         32:7c:96:43:b2:ac:ca:97:d8:a5:93:d0:7b:1e:10:ab:e1:61:
+         d6:44:f1:93:46:14:69:de:f7:a6:ea:2c:eb:e8:28:21:1d:7b:
+         45:6f:2c:87:3f:ff:e0:d8:be:5e:25:c2:3f:8c:bc:08:3d:b7:
+         d6:21:5b:21:67:a0:cd:03:ac:62:48:9c:99:d0:3c:5f:1e:d7:
+         61:b9:f6:a0:d2:61:08:3a:06:3d:9f:79:a4:98:36:ff:6c:3a:
+         81:ac:2b:77:9e:ed:4f:42:b3:4a:e5:d1:dc:82:b5:c9:74:36:
+         19:09:55:69
+-----BEGIN CERTIFICATE-----

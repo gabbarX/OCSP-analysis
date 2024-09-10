@@ -1,0 +1,25 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: C = US, O = Let's Encrypt, CN = E5
+    Produced At: Sep  6 07:56:00 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 1E11C0C9ACFDA453EF4B2F6A732115604D54ADB9
+      Issuer Key Hash: 99CD29C3A15826AF7A7A4C845A8F738860B0DFDE
+      Serial Number: 04D51AE9BEF73E0D4A66EB6C53BBFD892E6C
+    Cert Status: good
+    This Update: Sep  6 07:56:00 2024 GMT
+    Next Update: Sep 13 07:55:58 2024 GMT
+
+    Signature Algorithm: ecdsa-with-SHA384
+         30:64:02:30:00:a8:5f:45:5d:90:79:6c:93:3b:1c:bc:4c:0f:
+         8d:d1:28:d2:44:77:51:38:96:4c:4a:56:b3:91:60:dd:71:5e:
+         17:c1:bb:f8:a8:e9:6f:d6:f0:09:c0:6b:af:13:a2:29:02:30:
+         50:15:dc:0a:50:3a:cb:ba:9a:78:12:71:ed:06:3c:28:52:e2:
+         38:40:d4:02:39:0a:a8:a1:13:84:51:09:b7:de:0d:b0:a7:00:
+         f4:2e:52:75:6b:e0:5b:01:a7:c7:44:47
+======================================
+---

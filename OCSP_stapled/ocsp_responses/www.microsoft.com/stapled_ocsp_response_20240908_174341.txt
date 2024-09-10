@@ -1,0 +1,119 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: EE28F811E12E09587AE8B61A10613DA1A32820F7
+    Produced At: Sep  7 21:42:51 2024 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: E475019DC323E226741D6C40390795F90596462E
+      Issuer Key Hash: 3B70D153E976259D60A8CA660FC69BAE6F54166A
+      Serial Number: 33009F7B734DB0480411EB0BBA0000009F7B73
+    Cert Status: good
+    This Update: Sep  7 18:12:51 2024 GMT
+    Next Update: Sep 15 18:32:51 2024 GMT
+        Response Single Extensions:
+            1.3.6.1.4.1.311.21.4: 
+                .240911182251Z
+
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:46:e0:5c:b3:88:13:72:04:be:5d:42:22:63:91:8e:d6:a9:
+         29:e5:eb:dc:7c:cd:22:db:98:90:08:a7:93:c7:f5:da:e1:a1:
+         3b:6b:11:cf:ec:dd:11:85:b0:13:15:e3:3b:22:8a:6e:c5:03:
+         7d:c1:70:b7:c5:a9:8f:c4:b5:a9:36:fb:97:fc:fa:69:57:90:
+         54:bc:8b:da:ef:c5:73:9f:4d:4c:6c:85:ae:bf:e3:e4:7d:dd:
+         36:56:63:ec:a6:1d:8f:fe:56:bd:a0:14:e1:31:08:da:8c:39:
+         d7:40:d7:7e:eb:94:d5:36:d3:33:db:98:d1:1e:55:d1:3a:d3:
+         c6:5d:32:a4:9f:97:82:1a:3a:af:5e:98:12:47:7b:09:a3:12:
+         a6:3a:2b:3b:6f:41:9f:e0:39:9f:3f:d0:43:4e:97:23:0d:25:
+         95:be:a2:25:41:07:86:00:97:63:18:16:81:97:a4:da:b6:4f:
+         73:64:bc:61:c6:a4:f4:21:53:d7:17:e7:fe:c3:9b:40:8f:25:
+         20:f8:a5:76:f5:0e:8e:9f:12:ee:b5:85:e5:d3:be:e6:f5:d3:
+         70:ce:36:8a:f8:a9:14:33:57:1c:b3:63:75:53:ee:ad:54:a5:
+         a7:15:0f:3c:39:69:04:1e:01:d5:3d:67:b1:f8:a4:95:03:70:
+         18:40:89:7e
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            33:00:ad:81:13:67:ff:44:87:1b:53:81:c4:00:00:00:ad:81:13
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C=US, O=Microsoft Corporation, CN=Microsoft Azure RSA TLS Issuing CA 04
+        Validity
+            Not Before: Sep  7 15:51:06 2024 GMT
+            Not After : Oct  7 15:51:06 2024 GMT
+        Subject: C=US, ST=WA, L=Redmond, O=Microsoft, CN=AzureRSA04 OCSP Cert
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:9c:1c:8f:94:1a:9f:e3:9e:95:e9:5d:ea:cf:ff:
+                    b7:35:4a:f9:10:b6:7f:6d:e2:5a:b4:16:ee:8f:88:
+                    0d:e9:65:4f:ad:fd:66:8f:f9:64:e2:fd:e4:ea:23:
+                    63:a8:80:e6:9c:f0:91:01:ea:21:80:9c:e8:af:c9:
+                    47:96:55:c9:52:65:87:95:04:53:fc:65:13:ca:bf:
+                    66:6f:0c:8e:28:f7:c6:9d:01:da:b6:0e:12:a5:29:
+                    ac:1e:61:d6:ac:b2:88:b7:c2:68:07:9e:15:af:57:
+                    17:df:f7:b3:4c:15:5d:1e:4f:0e:42:81:28:90:f2:
+                    8e:b1:c3:59:60:3e:0b:4e:16:e8:89:23:c8:dc:f9:
+                    22:83:1d:87:89:42:43:27:1b:aa:97:77:fd:ca:ea:
+                    d6:ed:3c:eb:fb:46:b1:ec:68:06:7e:df:76:53:ba:
+                    1b:94:ac:1c:21:30:28:cc:26:f8:ff:4c:ed:bc:1d:
+                    fa:00:40:3e:3f:d4:3e:d9:d8:5b:d3:18:7e:02:5b:
+                    86:64:6f:f7:69:c0:ed:9d:2c:73:46:c0:60:95:c8:
+                    5e:5f:51:d8:fe:68:7f:78:35:9f:cc:5b:20:be:98:
+                    23:55:f3:38:81:04:ae:f1:01:5b:90:1b:02:a2:c6:
+                    f5:44:5d:db:04:8c:d0:24:1c:77:bb:5b:ac:6c:56:
+                    0e:99
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+            X509v3 Subject Key Identifier: 
+                EE:28:F8:11:E1:2E:09:58:7A:E8:B6:1A:10:61:3D:A1:A3:28:20:F7
+            X509v3 Authority Key Identifier: 
+                keyid:3B:70:D1:53:E9:76:25:9D:60:A8:CA:66:0F:C6:9B:AE:6F:54:16:6A
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            1.3.6.1.4.1.311.21.7: 
+                0-.%+.....7.........F...........]..."......d...
+            1.3.6.1.4.1.311.21.10: 
+                0.0
+..+.......
+            OCSP No Check: 
+
+    Signature Algorithm: sha384WithRSAEncryption
+         38:4a:d2:37:42:55:25:c8:4d:ff:a5:e8:a0:b0:ff:bd:7d:ae:
+         a5:fc:b6:f5:d1:42:35:27:92:e7:7d:62:8c:fd:49:c2:9b:4e:
+         ab:3c:aa:bc:10:5d:67:62:b5:18:23:68:63:26:0c:e5:4b:c4:
+         15:91:f6:d3:e9:32:76:1a:4e:c6:19:cb:d8:38:e1:0d:05:b4:
+         bc:79:82:fc:9d:83:4f:0a:40:ee:07:d1:26:fd:65:49:56:6a:
+         08:16:84:28:69:a3:d2:2b:c3:a8:e5:4d:82:3a:6b:e2:33:31:
+         cf:7a:82:c0:40:0f:72:c2:91:5e:ae:96:1d:20:d2:17:84:55:
+         e5:1e:03:d7:c7:20:ca:1c:4a:11:2e:0b:ac:32:c7:9e:df:97:
+         df:03:5c:a9:1d:4e:69:44:79:8d:18:bf:e9:a4:1b:90:1f:11:
+         a1:97:63:f5:ed:79:40:67:32:09:7a:d3:e6:13:6a:42:d7:13:
+         f6:d5:43:6b:36:4a:ed:df:97:66:63:e1:03:fd:70:65:bb:0c:
+         75:3d:2e:4c:7b:db:41:79:73:80:9f:66:f9:a1:df:3f:6a:cb:
+         f0:78:3f:f0:a6:d5:4e:f0:4d:c8:16:8d:ab:7f:2b:1d:7f:49:
+         e9:69:60:4b:60:b5:d3:94:68:8f:f8:60:02:d7:b0:3e:4d:90:
+         67:86:95:0f:2e:16:3b:3b:6a:33:de:de:78:b2:5d:41:6b:b6:
+         b2:b8:c8:44:9f:d9:dc:fd:d9:b2:67:4b:fe:c2:bc:78:b8:ef:
+         fa:e7:9f:13:d1:72:f5:2c:fb:d4:3c:9f:be:40:25:27:11:7b:
+         0a:0f:b9:d2:67:df:e5:27:0e:9b:03:32:08:c8:61:f9:78:27:
+         72:fc:a0:48:1f:cc:3e:9d:4e:ff:97:4e:af:e3:a8:ba:53:df:
+         d5:95:ab:54:65:e7:89:0a:7a:36:cd:7a:66:9c:7f:a0:20:44:
+         e2:12:47:4a:a5:0c:26:be:72:3c:ea:e6:3e:39:c1:85:ef:61:
+         e7:6b:6e:b5:1c:02:13:be:03:2e:0e:5e:ea:38:43:77:bc:48:
+         b6:6f:dd:ff:e2:c7:af:a5:78:38:83:a5:a2:94:38:ce:97:8f:
+         5e:75:a4:b3:7e:2e:d2:31:0a:cb:b1:9d:fc:4c:9e:ce:39:b5:
+         ae:97:29:b8:b4:81:85:89:2f:c0:56:5a:23:68:60:61:8f:5f:
+         10:c5:e2:b6:df:62:5c:05:e3:d7:f0:8b:85:75:91:8c:c2:a8:
+         1a:df:e1:21:a2:7d:a4:af:dc:d6:3d:4e:f1:3e:2c:e7:67:a4:
+         8c:e2:46:74:dd:bf:4d:a4:a2:94:a8:25:40:5f:0e:21:36:4b:
+         19:8f:09:e7:2e:86:9d:2a
+-----BEGIN CERTIFICATE-----
